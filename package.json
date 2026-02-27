@@ -1,6 +1,7 @@
 {
   "name": "tanosei-site",
   "version": "0.1.0",
+  "type":"module",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -32,6 +33,8 @@
     "type": "git",
     "url": "git+https://github.com/devnson/tanoseistudiosite.git"
   },
+
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -41,3 +44,5 @@
   },
   "homepage": "https://github.com/devnson/tanoseistudiosite#readme"
 }
+
+
